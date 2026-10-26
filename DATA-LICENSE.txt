@@ -1,0 +1,14 @@
+駅からはじまる、探索ノート — データの帰属
+
+© OpenStreetMap contributors
+OSM由来の施設データは Open Database License (ODbL) 1.0。
+https://www.openstreetmap.org/copyright
+https://opendatacommons.org/licenses/odbl/1-0/
+
+駅・路線データ：駅データ.jp無料データ／路線・駅情報API、JR東日本・JR東海の路線図に基づく。
+https://train.teraren.com/doc
+https://ekidata.jp/agreement.php
+
+配布する加工済みのゲームデータは data/game.json に含まれます。
+原本は添付Excelの7タブ。Googleマップ上の地図・口コミ・写真・経路結果は含みません。
+4,810件すべて未実踏の探索候補。営業・公開状況・徒歩経路は未確認。
